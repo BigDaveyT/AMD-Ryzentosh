@@ -1,6 +1,7 @@
 # AMD-Ryzentosh
 
 Opencore 0.6.2
+
 macOS Catalina 10.15.7
 
 ## My Parts: ##
