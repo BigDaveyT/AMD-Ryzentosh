@@ -1,0 +1,2 @@
+# AMD-Ryzentosh
+Hackintosh ASUS TUF GAMING X570-PLUS, 3800x, RX 480
