@@ -1708,17 +1708,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02915609J9JG361F</string>
 			<key>ROM</key>
-			<data></data>
+			<data>BNn1B0pK</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02YK0MUHX87</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>55A0B970-0541-4F97-9512-6FE4DC3C50BA</string>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ProcessorType</key>
