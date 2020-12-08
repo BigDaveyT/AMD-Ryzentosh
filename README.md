@@ -1,6 +1,6 @@
 # AMD-Ryzentosh
 
-Opencore 0.6.2
+Opencore 0.6.3
 
 macOS Catalina 10.15.7
 
